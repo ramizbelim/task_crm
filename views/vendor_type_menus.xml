@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+       <menuitem action="action_vendor_type_menu"
+              id="vendor_type_menu"
+              name="Vendor Type"
+              parent="purchase.menu_purchase_config"/>
+</odoo>
